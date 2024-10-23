@@ -1,0 +1,5 @@
+Criação de um projeto 
+npx create-next-app 
+aceite tudo 
+e inicie seu projeto com comando 
+npm run dev
